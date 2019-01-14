@@ -31,3 +31,5 @@ sass:
 
 # Gems
 gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
+
+theme: jekyll-theme-minimal
